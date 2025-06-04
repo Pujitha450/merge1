@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 hiiii
 pujitha
+=======
+helloo
+devops 
+lab
+>>>>>>> fb
